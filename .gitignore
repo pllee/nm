@@ -2,6 +2,5 @@ node_modules
 npm-debug.log
 .idea/
 coverage/
-/public
 assets.json
 .idea

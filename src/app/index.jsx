@@ -29,8 +29,7 @@ let SearchApp = React.createClass({
 		this.provider.load(url, this.onSearch);
 	},
 
-	onSearch: function (jsonData, status) {
-		console.log(jsonData)
+	onSearch: function (jsonData) {
 		this.displaySearchResults(jsonData);
 	},
 
