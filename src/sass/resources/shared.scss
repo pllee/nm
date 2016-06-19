@@ -1,0 +1,9 @@
+$light-text-color: #888;
+$light-border-color: rgb(221, 221, 221);
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
+}

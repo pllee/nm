@@ -1,0 +1,22 @@
+.search-label {
+  float: left;
+  line-height: 47px;
+  font-size: 20px;
+}
+
+.search-box {
+  float: right;
+  margin-top: 18px
+}
+
+.search-input {
+  width: 580px;
+  @include border-radius(5px);
+  border: 1px solid rgb(221, 221, 221);
+  height: 34px;
+
+  &.error {
+    border: 1px solid red;
+  }
+}
+

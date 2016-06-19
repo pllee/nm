@@ -1,0 +1,37 @@
+.criteria-picker {
+  padding: 5px;
+}
+
+label.criteria-picker-label {
+  font-weight: bold;
+}
+
+.criteria-picker-inputs {
+  margin-top: 10px;
+}
+
+.criteria-picker-inputs .input, .react-datepicker__input-container > input {
+  width: 70px;
+}
+
+.criteria-picker-inputs {
+  margin-left: 5px;
+  display: inline-block;
+}
+
+.criteria-picker-inputs .range .input, .criteria-picker-inputs .range .input-wrapper {
+  display: inline-block;
+}
+
+.range {
+  display: inline-block;
+}
+
+.input-wrapper {
+  display: inline-block;
+}
+
+.criteria-picker-select {
+  margin-right: 5px;
+}
+
