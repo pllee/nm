@@ -1,5 +1,6 @@
 # Github Search App
-Simple React Webpack Babel Starter Kit
+
+Started kit cloned from https://github.com/alicoding/react-webpack-babel
 
 ```
 > $ git clone https://github.com/pllee/nm.git
